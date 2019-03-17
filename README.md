@@ -1,2 +1,2 @@
-# webpack4-vue
-基于vue-cli的webpack模板，升级到webpack到4.*
+# webpack4_vue_dev
+升级vue-cli中webpack模板到4.0
